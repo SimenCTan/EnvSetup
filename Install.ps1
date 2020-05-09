@@ -107,6 +107,7 @@ choco install fiddler -y
 choco install lightshot.install -y
 choco install Telegram -y
 choco install onenote -y
+choco install microsoft-windows-terminal -y
 choco install ChocolateyGUI -y
 
 
